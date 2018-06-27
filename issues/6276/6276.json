@@ -1,0 +1,50 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "When doing the command regsvr32 CopyPath.dll, receive this error:  \"The module \"CopyPAth.dll\" was loaded but the coall to DllRegisterServer failed with the error code 0x80070005.\"\nAs the right click copy path option is not visible, assume that installation was not successful.\nOS = Windows 7 Professional, 32 bit.",
+    "LastUpdatedDate": "2013-02-13T19:54:27.057-08:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Low",
+      "Severity": 50,
+      "Id": 1
+    },
+    "ProjectName": "copypath",
+    "ReportedDate": "2010-04-07T05:38:09.267-07:00",
+    "Status": {
+      "Name": "Proposed",
+      "Id": 1
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Windows 7 Install Error",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 1,
+    "Id": 6276
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "I am also running Windows 7, on a 64bit OS system and get an error....will this plugin be updated soon?\r\nThanks!\r\n:-) joan",
+      "PostedDate": "2011-06-23T07:58:32.427-07:00",
+      "Id": -2147483648
+    },
+    {
+      "Message": "",
+      "PostedDate": "2013-02-13T19:54:27.057-08:00",
+      "Id": -2147483648
+    }
+  ]
+}

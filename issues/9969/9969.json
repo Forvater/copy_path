@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "Hi,\n\nMy laptop was just rebuilt (Windows 7) - now I can't register the dll.\n\nI get this error:\nThe module \"c:\\Windows\\System32\\CopyPath.dll\" failed to load.\nMake sure the binary is stored at the specified location or debug it to check for problems with the binary or dependent .DLL files.\nThe specific module could not be found.\n\nAny suggestions? I had copy path loaded on my Windows 7 before the rebuild....\n:-(  thanks,\njoan",
+    "LastUpdatedDate": "2013-03-19T06:20:22.963-07:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Unassigned",
+      "Severity": 0,
+      "Id": 0
+    },
+    "ProjectName": "copypath",
+    "ReportedDate": "2013-03-19T06:20:22.963-07:00",
+    "Status": {
+      "Name": "Proposed",
+      "Id": 1
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Windows 7 failure to load error",
+    "Type": {
+      "Name": "Issue",
+      "Id": 3
+    },
+    "VoteCount": 1,
+    "Id": 9969
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

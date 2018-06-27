@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "244422",
+    "ThreadId": "71660",
+    "Html": "<p>Shift-Right-Click, &quot;Copy as Path&quot;</p>\r\n<p>...standard Explorer feature. Did you miss it?</p>\r\n<p>&nbsp;</p>",
+    "PostedDate": "2009-10-11T14:21:49.063-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "244568",
+    "ThreadId": "71660",
+    "Html": "<p><span style=\"font-size:10pt;color:black;font-family:'Microsoft Sans Serif'\">No it wasn't missed Axelriet, the feature you talk about was added in Windows Vista. However at work like many others I still have to use XP and require a feature like this that will resolve the UNC path for mapped drives, therefore I created this utility and as I know there are still many others out there that have to use older versions of Windows I made the utility available here as it may also be of use to them.</span></p>\r\n<p><span style=\"font-size:10pt;color:black;font-family:'Microsoft Sans Serif'\">Primarily I'm a C# and Java developer and although I have written C++ before I have very little experience of Windows programming and while putting this utility together had to do a lot of reading around to work out how to do it, therefore I decided to publish the code so that others may use this code to learn from if they wish as the actual application code is very simple for this program.</span></p>",
+    "PostedDate": "2009-10-12T01:55:38.867-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]
