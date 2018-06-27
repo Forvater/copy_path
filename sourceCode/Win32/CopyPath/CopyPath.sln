@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CopyPath", "CopyPath.vcproj", "{34E17B87-E0F2-49C0-ABDD-0341D899B6F3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CopyPathPS", "CopyPathPS.vcproj", "{7CF9ED81-7E67-472F-A57D-1B742226F886}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34E17B87-E0F2-49C0-ABDD-0341D899B6F3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{34E17B87-E0F2-49C0-ABDD-0341D899B6F3}.Debug|Win32.Build.0 = Debug|Win32
+		{34E17B87-E0F2-49C0-ABDD-0341D899B6F3}.Release|Win32.ActiveCfg = Release|Win32
+		{34E17B87-E0F2-49C0-ABDD-0341D899B6F3}.Release|Win32.Build.0 = Release|Win32
+		{7CF9ED81-7E67-472F-A57D-1B742226F886}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7CF9ED81-7E67-472F-A57D-1B742226F886}.Debug|Win32.Build.0 = Debug|Win32
+		{7CF9ED81-7E67-472F-A57D-1B742226F886}.Release|Win32.ActiveCfg = Release|Win32
+		{7CF9ED81-7E67-472F-A57D-1B742226F886}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
